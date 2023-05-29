@@ -20,28 +20,4 @@ public class DockerJibDemoApplication {
 		return "welcome to THE STACK SCHOOL";
 	}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	public void main(){
-
-	}
 }
